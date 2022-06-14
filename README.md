@@ -6,12 +6,16 @@ const Me = {
   Name: 'HyunYi Choi',
   DisplayName: ('Tony', 'gusdl2378'),
   Age: 26,
+  Career: ('3year', 'Designer'),
   From: 'Korea',
   Job: 'FrontEnd Developer'
 };
 ```
 
 ### 💻 Tech
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?&logo=figma&logoColor=white)<br/>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white)
