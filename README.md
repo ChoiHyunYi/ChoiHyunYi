@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Tony👋
 
-<!--
-**ChoiHyunYi/ChoiHyunYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙍‍♀️ About Me
+```javascript
+const Me = {
+  Name: 'HyunYi Choi',
+  DisplayName: ('Tony', 'gusdl2378'),
+  Age: 26,
+  From: 'Korea',
+  Job: 'FrontEnd Developer'
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech
+![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white)
