@@ -22,3 +22,4 @@ const Me = {
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-nodejs-339933?&logo=nodedotjs&logoColor=white)
