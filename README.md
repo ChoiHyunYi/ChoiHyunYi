@@ -1,5 +1,3 @@
-## Hi, I'm Tony👋
-
 ### 🙍‍♀️ About Me
 ```javascript
 const Me = {
