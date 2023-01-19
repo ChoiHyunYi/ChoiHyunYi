@@ -3,7 +3,7 @@
 const Me = {
   Name: 'HyunYi Choi',
   DisplayName: ('Tony', 'gusdl2378'),
-  Age: 26,
+  Age: 27,
   Career: ('3year', 'Designer'),
   From: 'Korea',
   Job: 'FrontEnd Developer'
